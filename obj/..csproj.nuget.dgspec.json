@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guto\\Documents\\dio.series\\..csproj": {}
+    "C:\\Users\\guto\\Desktop\\dio.series\\..csproj": {}
   },
   "projects": {
-    "C:\\Users\\guto\\Documents\\dio.series\\..csproj": {
+    "C:\\Users\\guto\\Desktop\\dio.series\\..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guto\\Documents\\dio.series\\..csproj",
+        "projectUniqueName": "C:\\Users\\guto\\Desktop\\dio.series\\..csproj",
         "projectName": ".",
-        "projectPath": "C:\\Users\\guto\\Documents\\dio.series\\..csproj",
+        "projectPath": "C:\\Users\\guto\\Desktop\\dio.series\\..csproj",
         "packagesPath": "C:\\Users\\guto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guto\\Documents\\dio.series\\obj\\",
+        "outputPath": "C:\\Users\\guto\\Desktop\\dio.series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

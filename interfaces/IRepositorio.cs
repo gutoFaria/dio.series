@@ -9,6 +9,6 @@ namespace dio.serie
         void  Insere(T entidade);
         void Exclui(int id);
         void Atualiza(int id,T entidade);
-        int ProximId();
+        int ProximoId();
     }
 }
